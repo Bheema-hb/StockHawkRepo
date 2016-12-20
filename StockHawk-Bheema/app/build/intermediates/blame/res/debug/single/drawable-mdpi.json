@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_dollar.png",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/src/main/res/drawable-mdpi/ic_dollar.png"
+    },
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_percentage.png",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/src/main/res/drawable-mdpi/ic_percentage.png"
+    }
+]

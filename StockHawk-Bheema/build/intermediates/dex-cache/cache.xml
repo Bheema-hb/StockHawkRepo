@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0b508a34401c99ded508afeb8cf06e3c6323af4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_330d860d907355c288f87b92bfe7d07b7cf109cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_89cb894f06106004abcca3c945ae01ebc6be6e03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_15608639afbca6f2b2bee18b5cabdec3dce65213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.yahoofinance-api/YahooFinanceAPI/3.3.0/2915479866b51881ac4128cf84661d7c0297d94f/YahooFinanceAPI-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2915479866b51881ac4128cf84661d7c0297d94f">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/YahooFinanceAPI-3.3.0_9381ab6c9e7f16b7b49ff997764a4dbd22e23ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-19.0_77cf9aba25ebc6924ee26e695da6dd1a194eb247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_1a9a6bd0db19d243f5725adac3201b8a8cbc6fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_abc2497c11250b33fe5484cfa5741357cf6fea92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e171d9d9ba5612390ba715323547a1397ce2789a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b503f720a98e48d2ba38b5de0d7729eb26f83704">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_554221932ba489f3eee4e6dd2af0a49e11ada70e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b2d0764cb9506eb5d15ce614f04d997051dab3dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="88b3954eec3c889fdce6cda6ee88db34df91bbad">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd268e9a65794ed4b00e3d3ddd25fc298a13237b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/opencsv-2.3_0caf78681174157531d7466ab60035ed907824e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a03f8a77841c89b49832f28a0b01eb11e7bf0f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f10a1fcc6a7c9cbb50c030134c4542ac61434f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_4c2379f7cd1d91e15263ab609b2746e1219dfa17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.5/e135072797f494a3b6cb10640dd8c6495261b9ac/MPAndroidChart-v2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e135072797f494a3b6cb10640dd8c6495261b9ac">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.5_61976688824b73c0751cebe52ac390e941f23763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_b8a6936e0711f28e7fd7985975d4a14009eb84f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e3519b9d5287840df40776a8268ae336ca9f063">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_7ed53c723ae13fdba19a1b45153e478d184e8ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.2_82ddc82c65510b50e004e62a9c85381991802b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_66baf4a05c98d849e63a46375adb000705e191eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6ea2de405cbe9d7d1a32df215100c3263f08e0f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.3.0_e79fec7c67b1915a095ebdc982557a095563417e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d7640d30619cb05ea17854e0421d0b661e03dab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5c6e9904f1b477943e89d98d38180cb4f38785c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b1e6bc6926e7fa14e90f923508d1b2f712a84e64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_51b21b4088dfcd0f9bad9c891e7d57a8c801b818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c7e804d596994d9f8d2d6649b8b7abdfc3de68fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_9eeaa9b1a017b827d956d43b391740dcdf8b36ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_2bd8d60697f20087b8b9afe4357aea3f6d8c7325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_9b18edc7419fc3dd743b0353e11b0e90e9c7f290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_02dd0c30d5331918fdd3e98535e0298bf249c289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_8fd4ad5b3c6779043cd6d02af966c6369f6a6b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f23526c52efbc57e086855a474dbf5eea4a8c860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bheema/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_21c58bf9f62a20dfa36e6c3764e9a8dd039cf456/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
