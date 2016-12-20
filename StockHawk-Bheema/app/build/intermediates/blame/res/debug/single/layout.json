@@ -204,12 +204,12 @@
         "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/src/main/res/layout/list_item_quote.xml"
     },
     {
-        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",

@@ -1,7 +1,0 @@
-#Tue Dec 20 20:46:05 IST 2016
-base.0=/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd268e9a65794ed4b00e3d3ddd25fc298a13237b
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_554221932ba489f3eee4e6dd2af0a49e11ada70e/classes.dex
-base.1=/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_554221932ba489f3eee4e6dd2af0a49e11ada70e
-file.0=/Users/Bheema/Android-Projects/NanoDegree/StockHawkRepo/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd268e9a65794ed4b00e3d3ddd25fc298a13237b/classes.dex
